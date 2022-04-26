@@ -104,6 +104,14 @@
         "back": { "type": "text", "data": "Hauturière" }
     },
     {
+        "front": { "type": "text", "data": "Qu'est-ce qu'un sémaphore?" },
+        "back": { "type": "text", "data": "Un poste établi sur le littoral, permettant de communiquer par signaux optiques avec les navires." }
+    },
+    {
+        "front": { "type": "text", "data": "https://raw.githubusercontent.com/glesage/permis-cotier/main/public/images/semaphore_question.jpeg" },
+        "back": { "type": "text", "data": "Un sémaphore?" }
+    },
+    {
         "front": { "type": "image", "data": "https://raw.githubusercontent.com/glesage/permis-cotier/main/public/images/description_bateau_plaisance_moteur_balcon_question.jpeg"},
         "back": { "type": "image", "data": "https://raw.githubusercontent.com/glesage/permis-cotier/main/public/images/description_bateau_plaisance_moteur_balcon.jpeg"}
     },
