@@ -1,5 +1,21 @@
 [
     {
+        "front": { "type": "text", "data": "Combien de mètres fait 1 mille?" },
+        "back": { "type": "text", "data": "1852 mètres" }
+    },
+    {
+        "front": { "type": "text", "data": "Combiens de milles/heur fait 1 noeud?" },
+        "back": { "type": "text", "data": "1 mille" }
+    },
+    {
+        "front": { "type": "text", "data": "Quelle est la limitation de vitesse dans les ports?" },
+        "back": { "type": "text", "data": "3 noeuds" }
+    },
+    {
+        "front": { "type": "text", "data": "Quelle est la limitation de vitesse dans la bande du littorale?" },
+        "back": { "type": "text", "data": "5 noeuds" }
+    },
+    {
         "front": { "type": "text", "data": "Que mesure l'échelle de Beaufort?" },
         "back": { "type": "text", "data": "L'état de mer associé a une vitesse de vent" }
     },
