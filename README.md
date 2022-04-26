@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Visible on Netlify at https://permiscotier.netlify.app/
+
 ## Available Scripts
 
 In the project directory, you can run:
