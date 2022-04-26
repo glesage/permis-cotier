@@ -67,7 +67,7 @@ class App extends React.Component {
             <Swiper
                 modules={[Keyboard]}
                 slidesPerView={1}
-                spaceBetween={0}
+                spaceBetween={50}
                 keyboard={{ enabled: true }}
                 onSlideChange={(e) => {
                 	this.setState(() => ({
