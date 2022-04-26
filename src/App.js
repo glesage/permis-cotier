@@ -8,30 +8,17 @@ import "./App.css";
 import "swiper/css";
 import "swiper/css/keyboard";
 
-import test from "./images/test.jpeg";
-
-const questions = [
-    {
-    	key: uuidv4(),
-    	isFlipped: false,
-        front: { type: "text", data: "Que mesure l'échelle de Beaufort?" },
-        back: { type: "text", data: "L'état de mer associé a une vitesse de vent" }
-    },
-    {
-    	key: uuidv4(),
-    	isFlipped: false,
-        front: { type: "text", data: "Another great question" },
-        back: { type: "image", data: test, alt: "Picture of boat" }
-    },
-].sort(() => Math.random() - 0.5);
-
+import questions from "./questions.json";
 
 class App extends React.Component {
     constructor() {
         super();
 
+		const shuffledKeyedQuestions = questions.map(q => ({...q, key: uuidv4()})).sort(q => q['key']);
+
         this.state = {
-            currentKey: questions[0]['key'],
+            currentKey: shuffledKeyedQuestions[0]['key'],
+            questions: shuffledKeyedQuestions,
             isFlipped: false
         };
 
@@ -56,16 +43,16 @@ class App extends React.Component {
         else if (data[side]["type"] === "image") {
             return (
                 <div className="card" onClick={this.handleClick}>
-	                <img className="image" src={data[side]["data"]} alt={data[side]["alt"]} />
+	                <img className="image" src={data[side]["data"]} alt={data[side]["data"]} />
 	            </div>
             );
         }
     }
 
     generateFlipCards() {
-		return questions.map(data => {
+		return this.state.questions.map(data => {
             return (
-            	<SwiperSlide id={data['key']}>
+            	<SwiperSlide key={data['key']}>
 		        	<ReactCardFlip isFlipped={this.state.isFlipped && this.state.currentKey === data['key']}>
 		                {this.generateFlipCardSide(data, 'front')}
 		                {this.generateFlipCardSide(data, 'back')}
@@ -85,7 +72,7 @@ class App extends React.Component {
                 onSlideChange={(e) => {
                 	this.setState(() => ({
                 		isFlipped: false,
-                		currentKey: questions[e.snapIndex]['key']
+                		currentKey: this.state.questions[e.snapIndex]['key']
                 	}));
                 }}
             >

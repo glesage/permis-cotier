@@ -1,0 +1,10 @@
+[
+    {
+        "front": { "type": "text", "data": "Que mesure l'échelle de Beaufort?" },
+        "back": { "type": "text", "data": "L'état de mer associé a une vitesse de vent" }
+    },
+    {
+        "front": { "type": "text", "data": "Another great question" },
+        "back": { "type": "image", "data": "https://github.com/glesage/permis-cotier/raw/main/public/images/test.jpeg"}
+    }
+]
