@@ -5,6 +5,6 @@
     },
     {
         "front": { "type": "text", "data": "Another great question" },
-        "back": { "type": "image", "data": "https://github.com/glesage/permis-cotier/raw/main/public/images/test.jpeg"}
+        "back": { "type": "image", "data": "https://raw.githubusercontent.com/glesage/permis-cotier/main/public/images/test.jpeg"}
     }
 ]
