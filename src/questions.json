@@ -4,6 +4,18 @@
         "back": { "type": "text", "data": "L'état de mer associé a une vitesse de vent" }
     },
     {
+        "front": { "type": "text", "data": "Que mesure l'échelle de Douglas?" },
+        "back": { "type": "text", "data": "La hauteur de vagues et un descriptif du vent" }
+    },
+    {
+        "front": { "type": "text", "data": "Sur combiens de degrées est l'échelle de Douglas?" },
+        "back": { "type": "text", "data": "9" }
+    },
+    {
+        "front": { "type": "text", "data": "Sur combiens de forces est l'échelle de Beaufort?" },
+        "back": { "type": "text", "data": "12" }
+    },
+    {
         "front": { "type": "image", "data": "https://raw.githubusercontent.com/glesage/permis-cotier/main/public/images/description_bateau_plaisance_moteur_balcon_question.jpeg"},
         "back": { "type": "image", "data": "https://raw.githubusercontent.com/glesage/permis-cotier/main/public/images/description_bateau_plaisance_moteur_balcon.jpeg"}
     },
@@ -30,5 +42,21 @@
     {
         "front": { "type": "image", "data": "https://raw.githubusercontent.com/glesage/permis-cotier/main/public/images/description_bateau_plaisance_moteur_safran_question.jpeg"},
         "back": { "type": "image", "data": "https://raw.githubusercontent.com/glesage/permis-cotier/main/public/images/description_bateau_plaisance_moteur_safran.jpeg"}
+    },
+    {
+        "front": { "type": "image", "data": "https://raw.githubusercontent.com/glesage/permis-cotier/main/public/images/douglas_full_question.jpeg"},
+        "back": { "type": "image", "data": "https://raw.githubusercontent.com/glesage/permis-cotier/main/public/images/douglas.jpeg"}
+    },
+    {
+        "front": { "type": "image", "data": "https://raw.githubusercontent.com/glesage/permis-cotier/main/public/images/douglas_termes_question.jpeg"},
+        "back": { "type": "image", "data": "https://raw.githubusercontent.com/glesage/permis-cotier/main/public/images/douglas.jpeg"}
+    },
+    {
+        "front": { "type": "image", "data": "https://raw.githubusercontent.com/glesage/permis-cotier/main/public/images/beaufort_question.png"},
+        "back": { "type": "image", "data": "https://raw.githubusercontent.com/glesage/permis-cotier/main/public/images/beaufort.png"}
+    },
+    {
+        "front": { "type": "image", "data": "https://raw.githubusercontent.com/glesage/permis-cotier/main/public/images/beaufort_min_question.png"},
+        "back": { "type": "image", "data": "https://raw.githubusercontent.com/glesage/permis-cotier/main/public/images/beaufort.png"}
     }
 ]
