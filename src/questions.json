@@ -16,6 +16,14 @@
         "back": { "type": "text", "data": "5 noeuds" }
     },
     {
+        "front": { "type": "text", "data": "Comment appel-t-on un navire qui avance par rapport a l'eau?" },
+        "back": { "type": "text", "data": "Un navire avec de l'erre" }
+    },
+    {
+        "front": { "type": "text", "data": "Qu'est-ce qu'un navire avec de l'erre?" },
+        "back": { "type": "text", "data": "Un navire qui avance par rapport a l'eau" }
+    },
+    {
         "front": { "type": "text", "data": "Que mesure l'échelle de Beaufort?" },
         "back": { "type": "text", "data": "L'état de mer associé a une vitesse de vent" }
     },
