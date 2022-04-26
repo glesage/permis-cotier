@@ -24,6 +24,30 @@
         "back": { "type": "text", "data": "Un navire qui avance par rapport a l'eau" }
     },
     {
+        "front": { "type": "text", "data": "Que signifie dériver?" },
+        "back": { "type": "text", "data": "C'est l'action du vent ou du courant qui écarte un navire de son cap ou de sa trajectoire" }
+    },
+    {
+        "front": { "type": "text", "data": "Comment appel-t-on un navire qui se fait ecarter se son cap ou de sa trajectoire par l'action du vent ou du courant?" },
+        "back": { "type": "text", "data": "Dériver" }
+    },
+    {
+        "front": { "type": "text", "data": "Comment appel-t-on un navire qui est immobilisé par son ancre?" },
+        "back": { "type": "text", "data": "Au navire au mouillage" }
+    },
+    {
+        "front": { "type": "text", "data": "Quel longeur de navire peut-on piloter avec le permis plaisance?" },
+        "back": { "type": "text", "data": "24 mètres" }
+    },
+    {
+        "front": { "type": "text", "data": "Comment appel-t-on un navire qui est immobilisé par son ancre?" },
+        "back": { "type": "text", "data": "Au navire au mouillage" }
+    },
+    {
+        "front": { "type": "text", "data": "Que signifie mouiller un navire?" },
+        "back": { "type": "text", "data": "Immobiliser un navire avec son ancre" }
+    },
+    {
         "front": { "type": "text", "data": "Que mesure l'échelle de Beaufort?" },
         "back": { "type": "text", "data": "L'état de mer associé a une vitesse de vent" }
     },
