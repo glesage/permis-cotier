@@ -14,7 +14,7 @@ class App extends React.Component {
     constructor() {
         super();
 
-		const shuffledKeyedQuestions = questions.map(q => ({...q, key: uuidv4()})).sort(q => q['key']);
+		const shuffledKeyedQuestions = questions.map(q => ({...q, key: uuidv4()})).sort(q => Math.random() - 0.5);
 
         this.state = {
             currentKey: shuffledKeyedQuestions[0]['key'],
