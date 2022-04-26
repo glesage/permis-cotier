@@ -16,6 +16,46 @@
         "back": { "type": "text", "data": "12" }
     },
     {
+        "front": { "type": "text", "data": "Quel est la distance de navigation de la bande du littorale?" },
+        "back": { "type": "text", "data": "Moins de 300m" }
+    },
+    {
+        "front": { "type": "text", "data": "Quel est la distance de navigation basique?" },
+        "back": { "type": "text", "data": "Moins de 2 milles" }
+    },
+    {
+        "front": { "type": "text", "data": "Quel est la distance de navigation cotière?" },
+        "back": { "type": "text", "data": "Moins de 6 milles" }
+    },
+    {
+        "front": { "type": "text", "data": "Quel est la distance de navigation mi-hauturière?" },
+        "back": { "type": "text", "data": "Moins de 60 milles" }
+    },
+    {
+        "front": { "type": "text", "data": "Quel est la distance de navigation hauturière?" },
+        "back": { "type": "text", "data": "Plus de 60 milles" }
+    },
+    {
+        "front": { "type": "text", "data": "Comment s'appelle la distance de navigation a moins de 300m?" },
+        "back": { "type": "text", "data": "La bande du littorale" }
+    },
+    {
+        "front": { "type": "text", "data": "Comment s'appelle la distance de navigation a moins de 2 milles?" },
+        "back": { "type": "text", "data": "Basique" }
+    },
+    {
+        "front": { "type": "text", "data": "Comment s'appelle la distance de navigation a moins de 6 milles?" },
+        "back": { "type": "text", "data": "Cotière" }
+    },
+    {
+        "front": { "type": "text", "data": "Comment s'appelle la distance de navigation a moins de 60 milles?" },
+        "back": { "type": "text", "data": "Mi-hauturière" }
+    },
+    {
+        "front": { "type": "text", "data": "Comment s'appelle la distance de navigation a plus de 60 milles?" },
+        "back": { "type": "text", "data": "Hauturière" }
+    },
+    {
         "front": { "type": "image", "data": "https://raw.githubusercontent.com/glesage/permis-cotier/main/public/images/description_bateau_plaisance_moteur_balcon_question.jpeg"},
         "back": { "type": "image", "data": "https://raw.githubusercontent.com/glesage/permis-cotier/main/public/images/description_bateau_plaisance_moteur_balcon.jpeg"}
     },
