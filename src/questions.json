@@ -1,157 +1,202 @@
+
 [
     {
+        "category": "Notions générales",
         "front": { "type": "text", "data": "Combien de mètres fait 1 mille?" },
         "back": { "type": "text", "data": "1852 mètres" }
     },
     {
+        "category": "Notions générales",
         "front": { "type": "text", "data": "Combiens de milles/heur fait 1 noeud?" },
         "back": { "type": "text", "data": "1 mille" }
     },
     {
+        "category": "Notions générales",
+        "front": { "type": "text", "data": "Quelle est la définition d'un \"Abri\"?" },
+        "back": { "type": "text", "data": "Un endroit sur la côte où l'on peut facielement mouiller ou s'accoster pour se mettre en sécurité" }
+    },
+    {
+        "category": "Vitesse et déplacement",
         "front": { "type": "text", "data": "Quelle est la limitation de vitesse dans les ports?" },
         "back": { "type": "text", "data": "3 noeuds" }
     },
     {
+        "category": "Vitesse et déplacement",
         "front": { "type": "text", "data": "Quelle est la limitation de vitesse dans la bande du littorale?" },
         "back": { "type": "text", "data": "5 noeuds" }
     },
     {
+        "category": "Vitesse et déplacement",
         "front": { "type": "text", "data": "Comment appel-t-on un navire qui avance par rapport a l'eau?" },
         "back": { "type": "text", "data": "Un navire avec de l'erre" }
     },
     {
+        "category": "Vitesse et déplacement",
         "front": { "type": "text", "data": "Qu'est-ce qu'un navire avec de l'erre?" },
         "back": { "type": "text", "data": "Un navire qui avance par rapport a l'eau" }
     },
     {
+        "category": "Vitesse et déplacement",
         "front": { "type": "text", "data": "Que signifie dériver?" },
         "back": { "type": "text", "data": "C'est l'action du vent ou du courant qui écarte un navire de son cap ou de sa trajectoire" }
     },
     {
+        "category": "Vitesse et déplacement",
         "front": { "type": "text", "data": "Comment appel-t-on un navire qui se fait ecarter se son cap ou de sa trajectoire par l'action du vent ou du courant?" },
         "back": { "type": "text", "data": "Dériver" }
     },
     {
+        "category": "Vitesse et déplacement",
         "front": { "type": "text", "data": "Comment appel-t-on un navire qui est immobilisé par son ancre?" },
         "back": { "type": "text", "data": "Au navire au mouillage" }
     },
     {
+        "category": "Notions générales",
         "front": { "type": "text", "data": "Quel longeur de navire peut-on piloter avec le permis plaisance?" },
         "back": { "type": "text", "data": "24 mètres" }
     },
     {
-        "front": { "type": "text", "data": "Comment appel-t-on un navire qui est immobilisé par son ancre?" },
-        "back": { "type": "text", "data": "Au navire au mouillage" }
-    },
-    {
+        "category": "Vitesse et déplacement",
         "front": { "type": "text", "data": "Que signifie mouiller un navire?" },
         "back": { "type": "text", "data": "Immobiliser un navire avec son ancre" }
     },
     {
+        "category": "Conditions climatiques",
         "front": { "type": "text", "data": "Que mesure l'échelle de Beaufort?" },
         "back": { "type": "text", "data": "L'état de mer associé a une vitesse de vent" }
     },
     {
+        "category": "Conditions climatiques",
         "front": { "type": "text", "data": "Que mesure l'échelle de Douglas?" },
         "back": { "type": "text", "data": "La hauteur de vagues et un descriptif du vent" }
     },
     {
+        "category": "Conditions climatiques",
         "front": { "type": "text", "data": "Sur combiens de degrées est l'échelle de Douglas?" },
         "back": { "type": "text", "data": "9" }
     },
     {
+        "category": "Conditions climatiques",
         "front": { "type": "text", "data": "Sur combiens de forces est l'échelle de Beaufort?" },
         "back": { "type": "text", "data": "12" }
     },
     {
+        "category": "Vitesse et déplacement",
         "front": { "type": "text", "data": "Quel est la distance de navigation de la bande du littorale?" },
         "back": { "type": "text", "data": "Moins de 300m" }
     },
     {
+        "category": "Vitesse et déplacement",
         "front": { "type": "text", "data": "Quel est la distance de navigation basique?" },
         "back": { "type": "text", "data": "Moins de 2 milles" }
     },
     {
+        "category": "Vitesse et déplacement",
         "front": { "type": "text", "data": "Quel est la distance de navigation cotière?" },
         "back": { "type": "text", "data": "Moins de 6 milles" }
     },
     {
+        "category": "Vitesse et déplacement",
         "front": { "type": "text", "data": "Quel est la distance de navigation mi-hauturière?" },
         "back": { "type": "text", "data": "Moins de 60 milles" }
     },
     {
+        "category": "Vitesse et déplacement",
         "front": { "type": "text", "data": "Quel est la distance de navigation hauturière?" },
         "back": { "type": "text", "data": "Plus de 60 milles" }
     },
     {
+        "category": "Vitesse et déplacement",
         "front": { "type": "text", "data": "Comment s'appelle la distance de navigation a moins de 300m?" },
         "back": { "type": "text", "data": "La bande du littorale" }
     },
     {
+        "category": "Vitesse et déplacement",
         "front": { "type": "text", "data": "Comment s'appelle la distance de navigation a moins de 2 milles?" },
         "back": { "type": "text", "data": "Basique" }
     },
     {
+        "category": "Vitesse et déplacement",
         "front": { "type": "text", "data": "Comment s'appelle la distance de navigation a moins de 6 milles?" },
         "back": { "type": "text", "data": "Cotière" }
     },
     {
+        "category": "Vitesse et déplacement",
         "front": { "type": "text", "data": "Comment s'appelle la distance de navigation a moins de 60 milles?" },
         "back": { "type": "text", "data": "Mi-hauturière" }
     },
     {
+        "category": "Vitesse et déplacement",
         "front": { "type": "text", "data": "Comment s'appelle la distance de navigation a plus de 60 milles?" },
         "back": { "type": "text", "data": "Hauturière" }
     },
     {
+        "category": "Vitesse et déplacement",
+        "front": { "type": "text", "data": "https://raw.githubusercontent.com/glesage/permis-cotier/main/public/images/zone_basique_question.png" },
+        "back": { "type": "text", "data": "Zone basique" }
+    },
+    {
+        "category": "Signalétiques",
         "front": { "type": "text", "data": "Qu'est-ce qu'un sémaphore?" },
         "back": { "type": "text", "data": "Un poste établi sur le littoral, permettant de communiquer par signaux optiques avec les navires." }
     },
     {
+        "category": "Signalétiques",
         "front": { "type": "text", "data": "https://raw.githubusercontent.com/glesage/permis-cotier/main/public/images/semaphore_question.jpeg" },
-        "back": { "type": "text", "data": "Un sémaphore?" }
+        "back": { "type": "text", "data": "Un sémaphore" }
     },
     {
+        "category": "Caractéristiques d'un bateau",
         "front": { "type": "image", "data": "https://raw.githubusercontent.com/glesage/permis-cotier/main/public/images/description_bateau_plaisance_moteur_balcon_question.jpeg"},
         "back": { "type": "image", "data": "https://raw.githubusercontent.com/glesage/permis-cotier/main/public/images/description_bateau_plaisance_moteur_balcon.jpeg"}
     },
     {
+        "category": "Caractéristiques d'un bateau",
         "front": { "type": "image", "data": "https://raw.githubusercontent.com/glesage/permis-cotier/main/public/images/description_bateau_plaisance_moteur_cale_moteur_question.jpeg"},
         "back": { "type": "image", "data": "https://raw.githubusercontent.com/glesage/permis-cotier/main/public/images/description_bateau_plaisance_moteur_cale_moteur.jpeg"}
     },
     {
+        "category": "Caractéristiques d'un bateau",
         "front": { "type": "image", "data": "https://raw.githubusercontent.com/glesage/permis-cotier/main/public/images/description_bateau_plaisance_moteur_mat_antennes_question.jpeg"},
         "back": { "type": "image", "data": "https://raw.githubusercontent.com/glesage/permis-cotier/main/public/images/description_bateau_plaisance_moteur_mat_antennes.jpeg"}
     },
     {
+        "category": "Caractéristiques d'un bateau",
         "front": { "type": "image", "data": "https://raw.githubusercontent.com/glesage/permis-cotier/main/public/images/description_bateau_plaisance_moteur_paneaux_pont_question.jpeg"},
         "back": { "type": "image", "data": "https://raw.githubusercontent.com/glesage/permis-cotier/main/public/images/description_bateau_plaisance_moteur_paneaux_pont.jpeg"}
     },
     {
+        "category": "Caractéristiques d'un bateau",
         "front": { "type": "image", "data": "https://raw.githubusercontent.com/glesage/permis-cotier/main/public/images/description_bateau_plaisance_moteur_poste_question.jpeg"},
         "back": { "type": "image", "data": "https://raw.githubusercontent.com/glesage/permis-cotier/main/public/images/description_bateau_plaisance_moteur_poste.jpeg"}
     },
     {
+        "category": "Caractéristiques d'un bateau",
         "front": { "type": "image", "data": "https://raw.githubusercontent.com/glesage/permis-cotier/main/public/images/description_bateau_plaisance_moteur_proue_poupe_question.jpeg"},
         "back": { "type": "image", "data": "https://raw.githubusercontent.com/glesage/permis-cotier/main/public/images/description_bateau_plaisance_moteur_proue_poupe.jpeg"}
     },
     {
+        "category": "Caractéristiques d'un bateau",
         "front": { "type": "image", "data": "https://raw.githubusercontent.com/glesage/permis-cotier/main/public/images/description_bateau_plaisance_moteur_safran_question.jpeg"},
         "back": { "type": "image", "data": "https://raw.githubusercontent.com/glesage/permis-cotier/main/public/images/description_bateau_plaisance_moteur_safran.jpeg"}
     },
     {
+        "category": "Conditions climatiques",
         "front": { "type": "image", "data": "https://raw.githubusercontent.com/glesage/permis-cotier/main/public/images/douglas_full_question.jpeg"},
         "back": { "type": "image", "data": "https://raw.githubusercontent.com/glesage/permis-cotier/main/public/images/douglas.jpeg"}
     },
     {
+        "category": "Conditions climatiques",
         "front": { "type": "image", "data": "https://raw.githubusercontent.com/glesage/permis-cotier/main/public/images/douglas_termes_question.jpeg"},
         "back": { "type": "image", "data": "https://raw.githubusercontent.com/glesage/permis-cotier/main/public/images/douglas.jpeg"}
     },
     {
+        "category": "Conditions climatiques",
         "front": { "type": "image", "data": "https://raw.githubusercontent.com/glesage/permis-cotier/main/public/images/beaufort_question.png"},
         "back": { "type": "image", "data": "https://raw.githubusercontent.com/glesage/permis-cotier/main/public/images/beaufort.png"}
     },
     {
+        "category": "Conditions climatiques",
         "front": { "type": "image", "data": "https://raw.githubusercontent.com/glesage/permis-cotier/main/public/images/beaufort_min_question.png"},
         "back": { "type": "image", "data": "https://raw.githubusercontent.com/glesage/permis-cotier/main/public/images/beaufort.png"}
     }
