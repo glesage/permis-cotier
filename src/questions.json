@@ -136,6 +136,21 @@
         "back": { "type": "text", "data": "Zone basique" }
     },
     {
+        "category": "Vitesse et déplacement",
+        "front": { "type": "text", "data": "https://raw.githubusercontent.com/glesage/permis-cotier/main/public/images/zone_cotiere_question.png" },
+        "back": { "type": "text", "data": "Zone cotière" }
+    },
+    {
+        "category": "Vitesse et déplacement",
+        "front": { "type": "text", "data": "https://raw.githubusercontent.com/glesage/permis-cotier/main/public/images/zone_mi-hauturiere_question.png" },
+        "back": { "type": "text", "data": "Zone mi-hauturière" }
+    },
+    {
+        "category": "Vitesse et déplacement",
+        "front": { "type": "text", "data": "https://raw.githubusercontent.com/glesage/permis-cotier/main/public/images/zone_hauturiere_question.png" },
+        "back": { "type": "text", "data": "Zone hauturière" }
+    },
+    {
         "category": "Signalétiques",
         "front": { "type": "text", "data": "Qu'est-ce qu'un sémaphore?" },
         "back": { "type": "text", "data": "Un poste établi sur le littoral, permettant de communiquer par signaux optiques avec les navires." }
@@ -181,6 +196,16 @@
         "back": { "type": "image", "data": "https://raw.githubusercontent.com/glesage/permis-cotier/main/public/images/description_bateau_plaisance_moteur_safran.jpeg"}
     },
     {
+        "category": "Caractéristiques d'un bateau",
+        "front": { "type": "image", "data": "https://raw.githubusercontent.com/glesage/permis-cotier/main/public/images/commandes_bateau_question.png" },
+        "back": { "type": "image", "data": "https://raw.githubusercontent.com/glesage/permis-cotier/main/public/images/commandes_bateau.png" }
+    },
+    {
+        "category": "Caractéristiques d'un bateau",
+        "front": { "type": "image", "data": "https://raw.githubusercontent.com/glesage/permis-cotier/main/public/images/commandes_bateau_trou_question.png" },
+        "back": { "type": "image", "data": "https://raw.githubusercontent.com/glesage/permis-cotier/main/public/images/commandes_bateau.png" }
+    },
+    {
         "category": "Conditions climatiques",
         "front": { "type": "image", "data": "https://raw.githubusercontent.com/glesage/permis-cotier/main/public/images/douglas_full_question.jpeg"},
         "back": { "type": "image", "data": "https://raw.githubusercontent.com/glesage/permis-cotier/main/public/images/douglas.jpeg"}
@@ -199,5 +224,75 @@
         "category": "Conditions climatiques",
         "front": { "type": "image", "data": "https://raw.githubusercontent.com/glesage/permis-cotier/main/public/images/beaufort_min_question.png"},
         "back": { "type": "image", "data": "https://raw.githubusercontent.com/glesage/permis-cotier/main/public/images/beaufort.png"}
-    }
+    },
+    {
+        "category": "Conditions climatiques",
+        "front": { "type": "text", "data": "Quelle est la pression d'un anticyclone ?" },
+        "back": { "type": "text", "data": "> 1013 hPA, un anticyclone exerce une pression plus importante" }
+    },
+    {
+        "category": "Conditions climatiques",
+        "front": { "type": "text", "data": "Dans quel sens tournent les anticyclones ?" },
+        "back": { "type": "text", "data": "Dans le sens des aiguilles d'une montre" }
+    },
+    {
+        "category": "Conditions climatiques",
+        "front": { "type": "text", "data": "Lorsqu'il y a un anticyclone, l'air est-il plus lourd ou plus léger ?" },
+        "back": { "type": "text", "data": "Plus lourd" }
+    },
+  {
+      "category": "Conditions climatiques",
+      "front": { "type": "text", "data": "Quelle est la pression d'une dépression ?" },
+      "back": { "type": "text", "data": "< 1013 hPA, une dépression exerce une pression moins importante" }
+  },
+  {
+      "category": "Conditions climatiques",
+      "front": { "type": "text", "data": "Dans quel sens tournent les dépressions ?" },
+      "back": { "type": "text", "data": "Dans le sens inverse des aiguilles d'une montre" }
+  },
+  {
+      "category": "Conditions climatiques",
+      "front": { "type": "text", "data": "Lorsqu'il y a une dépression, l'air est-il plus lourd ou plus léger ?" },
+      "back": { "type": "text", "data": "Plus léger" }
+  },
+  {
+      "category": "Conditions climatiques",
+      "front": { "type": "text", "data": "A quoi faut-il s'attendre lorsqu'on observe une baisse importante et rapide du Baromètre ?" },
+      "back": { "type": "text", "data": "Des vents forts à venir. Une baisse importante et rapide du Baromètre signifie une dégradation des conditions météorologiques." }
+  },
+  {
+      "category": "Conditions climatiques",
+      "front": { "type": "image", "data": "https://raw.githubusercontent.com/glesage/permis-cotier/main/public/images/vents_mediterranee_question.png" },
+      "back": { "type": "image", "data": "https://raw.githubusercontent.com/glesage/permis-cotier/main/public/images/vents_mediterranee.png" }
+  },
+  {
+      "category": "Conditions climatiques",
+      "front": { "type": "text", "data": "Quels sont les deux types de brise qu'il existe ?" },
+      "back": { "type": "text", "data": "Brise marine / Brise thermique" }
+  },
+  {
+      "category": "Conditions climatiques",
+      "front": { "type": "text", "data": "Le vent thermique a-t-il tendance à se renforcer ou à faiblir pendant l'après-midi ?" },
+      "back": { "type": "text", "data": "Le vent thermique a tendance à se renforcer l’après-midi, car la terre se rechauffe" }
+  },
+  {
+      "category": "Conditions climatiques",
+      "front": { "type": "text", "data": "Savez-vous expliquer le phénomènre de vent thermique ?" },
+      "back": { "type": "text","data": "Le vent thermique est lié au réchauffement de la terre au cours de la journée et de son refroidissement en soirée" }
+  },
+  {
+      "category": "Notions générales",
+      "front": { "type": "text", "data": "En quelle année et par qui a été codifié la force du vent ?" },
+      "back": { "type": "text", "data": "En 1805 par Francis Beaufort, donnant naissance à l'échelle de Beaufort qui classifie la force du vent sur une échelle de 0 \"Calme\" à 12 \"Ouragan\"" }
+  },
+  {
+      "category": "Conditions climatiques",
+      "front": { "type": "text", "data": "Sur l'échelle de Beaufort, à partir de quelle force de vent rentrons nous dans la zone de vents dangereux ? (bonus : nom et vitesse de la catégorie)" },
+      "back": { "type": "text", "data": "A partir de la force 7 \"Grand frais\" avec des vents d'une vitesse de 28 à 33 noeuds, jusqu'à la force 12 \"Ouragan\" > 64 noeuds" }
+  },
+  {
+      "category": "Règles de privilèges",
+      "front": { "type": "image", "data": "https://raw.githubusercontent.com/glesage/permis-cotier/main/public/images/ordre_privilege_question.png" },
+      "back": { "type": "image", "data": "https://raw.githubusercontent.com/glesage/permis-cotier/main/public/images/ordre_privilege.png" }
+  }
 ]
