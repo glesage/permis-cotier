@@ -132,22 +132,22 @@
     },
     {
         "category": "Vitesse et déplacement",
-        "front": { "type": "text", "data": "https://raw.githubusercontent.com/glesage/permis-cotier/main/public/images/zone_basique_question.png" },
+        "front": { "type": "image", "data": "https://raw.githubusercontent.com/glesage/permis-cotier/main/public/images/zone_basique_question.png" },
         "back": { "type": "text", "data": "Zone basique" }
     },
     {
         "category": "Vitesse et déplacement",
-        "front": { "type": "text", "data": "https://raw.githubusercontent.com/glesage/permis-cotier/main/public/images/zone_cotiere_question.png" },
+        "front": { "type": "image", "data": "https://raw.githubusercontent.com/glesage/permis-cotier/main/public/images/zone_cotiere_question.png" },
         "back": { "type": "text", "data": "Zone cotière" }
     },
     {
         "category": "Vitesse et déplacement",
-        "front": { "type": "text", "data": "https://raw.githubusercontent.com/glesage/permis-cotier/main/public/images/zone_mi-hauturiere_question.png" },
+        "front": { "type": "image", "data": "https://raw.githubusercontent.com/glesage/permis-cotier/main/public/images/zone_mi-hauturiere_question.png" },
         "back": { "type": "text", "data": "Zone mi-hauturière" }
     },
     {
         "category": "Vitesse et déplacement",
-        "front": { "type": "text", "data": "https://raw.githubusercontent.com/glesage/permis-cotier/main/public/images/zone_hauturiere_question.png" },
+        "front": { "type": "image", "data": "https://raw.githubusercontent.com/glesage/permis-cotier/main/public/images/zone_hauturiere_question.png" },
         "back": { "type": "text", "data": "Zone hauturière" }
     },
     {
@@ -157,8 +157,18 @@
     },
     {
         "category": "Signalétiques",
-        "front": { "type": "text", "data": "https://raw.githubusercontent.com/glesage/permis-cotier/main/public/images/semaphore_question.jpeg" },
+        "front": { "type": "image", "data": "https://raw.githubusercontent.com/glesage/permis-cotier/main/public/images/semaphore_question.jpeg" },
         "back": { "type": "text", "data": "Un sémaphore" }
+    },
+    {
+        "category": "Signalétiques",
+        "front": { "type": "image", "data": "https://raw.githubusercontent.com/glesage/permis-cotier/main/public/images/signaletique_cardinales_nuit_question.jpeg" },
+        "back": { "type": "image", "data": "https://raw.githubusercontent.com/glesage/permis-cotier/main/public/images/signaletique_cardinales_nuit_reponse.jpeg" }
+    },
+    {
+        "category": "Signalétiques",
+        "front": { "type": "image", "data": "https://raw.githubusercontent.com/glesage/permis-cotier/main/public/images/signaletique_cardinales_question.jpeg" },
+        "back": { "type": "image", "data": "https://raw.githubusercontent.com/glesage/permis-cotier/main/public/images/signaletique_cardinales_reponse.jpeg" }
     },
     {
         "category": "Caractéristiques d'un bateau",
