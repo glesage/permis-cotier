@@ -162,13 +162,13 @@
     },
     {
         "category": "Signalétiques",
-        "front": { "type": "image", "data": "https://raw.githubusercontent.com/glesage/permis-cotier/main/public/images/signaletique_cardinales_nuit_question.jpeg" },
-        "back": { "type": "image", "data": "https://raw.githubusercontent.com/glesage/permis-cotier/main/public/images/signaletique_cardinales_nuit_reponse.jpeg" }
+        "front": { "type": "image", "data": "https://raw.githubusercontent.com/glesage/permis-cotier/main/public/images/signaletique_cardinales_nuit_question.jpg" },
+        "back": { "type": "image", "data": "https://raw.githubusercontent.com/glesage/permis-cotier/main/public/images/signaletique_cardinales_nuit_reponse.jpg" }
     },
     {
         "category": "Signalétiques",
-        "front": { "type": "image", "data": "https://raw.githubusercontent.com/glesage/permis-cotier/main/public/images/signaletique_cardinales_question.jpeg" },
-        "back": { "type": "image", "data": "https://raw.githubusercontent.com/glesage/permis-cotier/main/public/images/signaletique_cardinales_reponse.jpeg" }
+        "front": { "type": "image", "data": "https://raw.githubusercontent.com/glesage/permis-cotier/main/public/images/signaletique_cardinales_question.jpg" },
+        "back": { "type": "image", "data": "https://raw.githubusercontent.com/glesage/permis-cotier/main/public/images/signaletique_cardinales_reponse.jpg" }
     },
     {
         "category": "Caractéristiques d'un bateau",
